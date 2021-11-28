@@ -1,0 +1,23 @@
+{"url":"https://www.google.com/search?q=cat&oq=cat&aqs=chrome..69i57j46i433i512j35i39j69i60j69i65l2j69i60j69i61.1041j0j7&sourceid=chrome&ie=UTF-8",
+"host":"www.google.com",
+"host name":"www.google.com",
+"path name":"/search",
+"search":"?q=cat&oq=cat&aqs=chrome..69i57j46i433i512j35i39j69i60j69i65l2j69i60j69i61.1041j0j7&sourceid=chrome&ie=UTF-8"}
+
+{"url":"https://www.youtube.com/watch?v=nXulsCU1geg",
+"host":"www.youtube.com",
+"host name":"www.youtube.com",
+"path name":"/watch",
+"search":"?v=nXulsCU1geg"}
+
+{"url":"https://www2.kickassanime.ro/anime/blue-period-232207/episode-10-242020",
+"host":"www2.kickassanime.ro",
+"host name":"www2.kickassanime.ro",
+"path name":"/anime/blue-period-232207/episode-10-242020",
+"search":""}
+
+{"url":"https://sf.funcheap.com/today/",
+"host":"sf.funcheap.com",
+"host name":"sf.funcheap.com",
+"path name":"/today/",
+"search":""}
